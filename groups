@@ -1,5 +1,4 @@
-# UUID            	Group Name
+# UUID                                  	Group Name
 #
-user:genadic      	user/Gena (genadic)
-user:itzikb-redhat	user/Itzik Brown (itzikb-redhat)
-user:tfreger      	user/Toni Freger (tfreger)
+4965d36171107bac81f24724044e5152ace3600f	neutron-qe
+user:tfreger                            	user/Toni Freger (tfreger)
