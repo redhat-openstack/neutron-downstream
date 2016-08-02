@@ -1,0 +1,9 @@
+Code-Review+2: Gena <gcheresh@redhat.com>
+Code-Review+1: Alexander Stafeyev <alexo101087@gmail.com>
+Verified+1: Gena <gcheresh@redhat.com>
+Code-Review+2: Itzik Brown <itzikb@redhat.com>
+Submitted-by: Itzik Brown <itzikb@redhat.com>
+Submitted-at: Tue, 02 Aug 2016 08:36:59 -0400
+Reviewed-on: https://review.gerrithub.io/286032
+Project: redhat-openstack/neutron-tempest-staging
+Branch: refs/heads/master
